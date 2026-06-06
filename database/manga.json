@@ -1,0 +1,46 @@
+{
+  "manga_id": "dragonslayer-peerless-regression",
+  "title": "A Dragonslayer's Peerless Regression",
+  "alternative_title": [
+    "Dragon Slayer's Peerless Regression",
+    "Kembalinya Sang Pembunuh Naga Tanpa Tanding"
+  ],
+  "status": "Ongoing",
+  "author": "Heo-ru",
+  "artist": "Kkoma",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Regression"
+  ],
+  "type": "Manhwa",
+  "release_year": 2023,
+  "rating": 4.8,
+  "synopsis": "Setelah mengorbankan segalanya untuk membantai Raja Naga, pahlawan kita pada akhirnya menemui ajalnya. Namun, ia terbangun kembali di masa lalu dengan ingatan yang utuh. Kini, dengan pengetahuan tentang masa depan dan pengalaman bertarungnya, ia bertekad untuk merombak semua kesalahannya dan membantai naga dengan lebih efisien tanpa mengorbankan rekan-rekannya.",
+  "cover_url": "https://raw.githubusercontent.com/monstacomic-assets/db/main/covers/dragonslayer.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Kematian dan Permulaan Baru",
+      "images": [
+        "https://raw.githubusercontent.com/monstacomic-assets/db/main/dragonslayer/ch001/01.jpg",
+        "https://raw.githubusercontent.com/monstacomic-assets/db/main/dragonslayer/ch001/02.jpg",
+        "https://raw.githubusercontent.com/monstacomic-assets/db/main/dragonslayer/ch001/03.jpg",
+        "https://raw.githubusercontent.com/monstacomic-assets/db/main/dragonslayer/ch001/04.jpg",
+        "https://raw.githubusercontent.com/monstacomic-assets/db/main/dragonslayer/ch001/05.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Perubahan Rencana",
+      "images": [
+        "https://raw.githubusercontent.com/monstacomic-assets/db/main/dragonslayer/ch002/01.jpg",
+        "https://raw.githubusercontent.com/monstacomic-assets/db/main/dragonslayer/ch002/02.jpg",
+        "https://raw.githubusercontent.com/monstacomic-assets/db/main/dragonslayer/ch002/03.jpg",
+        "https://raw.githubusercontent.com/monstacomic-assets/db/main/dragonslayer/ch002/04.jpg",
+        "https://raw.githubusercontent.com/monstacomic-assets/db/main/dragonslayer/ch002/05.jpg"
+      ]
+    }
+  ]
+}
